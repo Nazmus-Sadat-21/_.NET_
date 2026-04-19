@@ -1,0 +1,8 @@
+# Compiled output
+bin/
+obj/
+
+# User-specific files
+.vscode/
+.vs/
+.idea/
